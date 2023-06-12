@@ -1,0 +1,30 @@
+*{
+    font-family: 'Outfit', sans-serif;
+}
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 111px;
+}
+.heading{
+    display: flex;
+    margin-left: 580px;
+    margin-top: 150px;
+}
+.p1, .p2{
+    color: white;
+    font-size: 25px;
+    display: inline-block;
+    letter-spacing: 4px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.p1{
+    margin-left: 480px;
+}
+.p2{
+    margin-left: 250px;
+}
